@@ -173,7 +173,7 @@ const sites = [
   },
   {
     title: 'Korean Lindy Hop Championships',
-    href: 'http://battle.swingit.kr',
+    href: 'https://camp.swingit.kr',
     icon: CheckBadgeIcon,
     iconForeground: 'text-purple-700',
     iconBackground: 'bg-purple-50',
@@ -181,7 +181,7 @@ const sites = [
   },
   {
     title: 'The Battle Korea',
-    href: '#',
+    href: 'http://battle.swingit.kr',
     icon: UsersIcon,
     iconForeground: 'text-sky-700',
     iconBackground: 'bg-sky-50',
